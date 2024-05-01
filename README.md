@@ -5,7 +5,9 @@ class Me:
         self.name = "Awakno"
         self.age = 404
         self.discord = "awakno"
-    def skill(language):
+    
+    @staticmethod
+    async def skill(language):
         if isinstance(language,python):
             skills = {
                 "Discord API": true,
@@ -20,6 +22,7 @@ class Me:
                 "FrontEnd": True,
                 "BackEnd": False
              }
+        return skills
 
         
 ```
