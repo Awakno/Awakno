@@ -10,7 +10,7 @@ class Me:
     async def skill(language):
         if isinstance(language,python):
             skills = {
-                "Discord API": true,
+                "Discord API": True,
                 "Request": True,
                 "Backend": True,
                 "API":True,
@@ -22,6 +22,12 @@ class Me:
                 "FrontEnd": True,
                 "BackEnd": False
              }
+        if isistance(language,html):
+            skills = {
+                "Static": True,
+                "FrameWork-FrontEnd": []
+            }
+        
         return skills
 
         
