@@ -7,7 +7,7 @@ class Me:
         self.discord = "awakno"
     
     @staticmethod
-    async def skill(language):
+    async def skill(self,language):
         if isinstance(language,python):
             skills = {
                 "Discord API": True,
@@ -29,6 +29,16 @@ class Me:
             }
         
         return skills
-
+    async def project(self):
+        projects = [
+            {
+                "name": "AwaBot",
+                "type": "DiscordBot",
+                "language": "Python",
+                "dependencies": "py-cord"
+            }
+    
+        ]
+        return projects
         
 ```
