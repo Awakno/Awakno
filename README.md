@@ -29,6 +29,7 @@ class Me:
             }
         
         return skills
+    @staticmethod
     async def project(self):
         projects = [
             {
