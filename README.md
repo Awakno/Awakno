@@ -25,7 +25,7 @@ class Me:
         if isistance(language,html):
             skills = {
                 "Static": True,
-                "FrameWork-FrontEnd": ['ReactJS']
+                "FrameWork-FrontEnd": ['NextJS']
             }
         
         return skills
