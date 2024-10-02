@@ -1,45 +1,43 @@
-```py 
-class Me:
-    def __init__(self):
-        super().__init__()
-        self.name = "Awakno"
-        self.age = 404
-        self.discord = "awakno"
-    
-    @staticmethod
-    async def skill(self,language):
-        if isinstance(language,python):
-            skills = {
-                "Discord API": True,
-                "Request": True,
-                "Backend": True,
-                "API":True,
-                "Automatisation": True,
-                "Front-End": "Learning"
-            }
-        if isinstance(language,javascript):
-            skills = {
-                "FrontEnd": True,
-                "BackEnd": False
-             }
-        if isistance(language,html):
-            skills = {
-                "Static": True,
-                "FrameWork-FrontEnd": ['NextJS']
-            }
-        
-        return skills
-    @staticmethod
-    async def project(self):
-        projects = [
-            {
-                "name": "AwaBot",
-                "type": "DiscordBot",
-                "language": "Python",
-                "dependencies": "py-cord"
-            }
-    
-        ]
-        return projects
-        
-```
+
+# Salut, je suis Awakno 👋
+
+### 🔭 À propos de moi
+
+Passionné par la technologie, j'aime explorer différents domaines de développement, résoudre des problèmes complexes et apprendre de nouvelles compétences. Je m'intéresse particulièrement au développement web BackEnd
+
+### 💻 Compétences techniques
+
+- **Langages de programmation** :
+  - Python 🐍
+  - JavaScript (React, Node.js) ⚛️
+  - HTML/CSS 🎨
+  - Bash 🖥️
+  
+- **Frameworks & Outils** :
+  - React.js / Next.js 🌐
+  - FastAPI ⚡
+  - Flask 🪶
+  - Git / GitHub 🛠️
+  - GitLab CI/CD 🚧
+  
+
+- **Bases de données** :
+  - MySQL 🗄️
+  - MongoDB 🍃
+
+### 📊 GitHub Stats
+
+![Awakno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awakno&show_icons=true&theme=radical)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakno&layout=compact&theme=radical)
+
+### 🎯 Projets récents
+
+- **[AwaBot](https://www.awabot.xyz/)** : AwaBot est un Bot Discord Polyvalent permettant une grande configuration de son Discord.
+
+
+### 📫 Me contacter
+
+- **Discord**: `awakno`
+
+Merci de visiter mon profil ! 😄
