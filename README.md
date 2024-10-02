@@ -18,7 +18,6 @@ Passionné par la technologie, j'aime explorer différents domaines de développ
   - FastAPI ⚡
   - Flask 🪶
   - Git / GitHub 🛠️
-  - GitLab CI/CD 🚧
   
 
 - **Bases de données** :
