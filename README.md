@@ -26,6 +26,8 @@ Passionné par la technologie, j'aime explorer différents domaines de développ
 
 ### 📊 GitHub Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Awakno)](https://git.io/streak-stats)
+
 ![Awakno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awakno&show_icons=true&theme=radical)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakno&layout=compact&theme=radical)
