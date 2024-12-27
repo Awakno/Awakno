@@ -6,8 +6,7 @@
 
 - 🌎 Speak 🇫🇷 🇺🇸
 
-[![Discord User](https://lanyard.cnrad.dev/api/1120654551331131452?hideActivity=true&borderRadius=10px)](https://discord.com/users/1120654551331131452)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1120654551331131452?idleMessage=I'm%20sleeping&theme=dark&showDisplayName=true)](https://discord.com/users/1120654551331131452)
 ---
 
 ## Socials
