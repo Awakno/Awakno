@@ -30,6 +30,8 @@
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com/)
+&nbsp;
 [![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so/)
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
