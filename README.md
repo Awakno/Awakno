@@ -27,6 +27,8 @@
 &nbsp;
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-US/windows)
 &nbsp;
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+&nbsp;
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
@@ -37,8 +39,6 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 &nbsp;
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-&nbsp;
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 &nbsp;
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 &nbsp;
