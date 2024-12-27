@@ -1,44 +1,43 @@
+# Hi there, I'm **Awakno** 👋
 
-# Salut, je suis Awakno 👋
+- 🌟 I'm a young back-end developer 
 
-### 🔭 À propos de moi
+- 🔒 I love coding, but I keep most of it private (sorry)
 
-Passionné par la technologie, j'aime explorer différents domaines de développement, résoudre des problèmes complexes et apprendre de nouvelles compétences. Je m'intéresse particulièrement au développement web BackEnd
+- 🌎 Speak 🇫🇷 🇺🇸
 
-### 💻 Compétences techniques
+[![Discord User](https://lanyard.cnrad.dev/api/1120654551331131452?hideActivity=true&borderRadius=10px)](https://discord.com/users/1120654551331131452)
 
-- **Langages de programmation** :
-  - Python 🐍
-  - JavaScript (React, Node.js) ⚛️
-  - HTML/CSS 🎨
-  - Bash 🖥️
-  
-- **Frameworks & Outils** :
-  - React.js / Next.js 🌐
-  - FastAPI ⚡
-  - Flask 🪶
-  - Git / GitHub 🛠️
-  
+---
 
-- **Bases de données** :
-  - MySQL 🗄️
-  - MongoDB 🍃
+## Socials
 
-### 📊 GitHub Stats
+[![Discord](https://skillicons.dev/icons?i=discord)](https://awabot.xyz/support)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Awakno)](https://git.io/streak-stats)
+&nbsp;
 
-![Awakno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awakno&show_icons=true&theme=radical)
+## Languages, Tools & Frameworks
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awakno&layout=compact&theme=radical)
-
-### 🎯 Projets récents
-
-- **[AwaBot](https://www.awabot.xyz/)** : AwaBot est un Bot Discord Polyvalent permettant une grande configuration de son Discord.
-
-
-### 📫 Me contacter
-
-- **Discord**: `awakno`
-
-Merci de visiter mon profil ! 😄
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com)
+&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org/)
+&nbsp;
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/)
+&nbsp;
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+&nbsp;
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/en-US/windows)
+&nbsp;
+<br>
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
+&nbsp;
+[![Notion](https://skillicons.dev/icons?i=notion)](https://notion.so/)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+&nbsp;
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+&nbsp;
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+&nbsp;
