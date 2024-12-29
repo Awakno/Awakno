@@ -2,7 +2,7 @@
 
 - 🌟 I'm a young back-end developer 
 
-- 🔒 I love coding, but I keep most of it private (sorry)
+- 🔒 I love coding
 
 - 🌎 Speak 🇫🇷 🇺🇸
 
