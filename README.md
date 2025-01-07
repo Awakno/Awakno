@@ -33,6 +33,8 @@
 &nbsp;
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 &nbsp;
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+&nbsp;
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
@@ -49,4 +51,6 @@
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 &nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)]([https://css.com](https://www.w3.org/TR/CSS/#css))
+&nbsp;
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 &nbsp;
