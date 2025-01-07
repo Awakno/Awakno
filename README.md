@@ -35,6 +35,10 @@
 &nbsp;
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 &nbsp;
+[![Selenium](https://skillicons.dev/icons?i=selenium)]([https://selenium.](https://selenium-python.readthedocs.io/))
+&nbsp;
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
+&nbsp;
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
@@ -53,4 +57,6 @@
 [![CSS](https://skillicons.dev/icons?i=css)]([https://css.com](https://www.w3.org/TR/CSS/#css))
 &nbsp;
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+&nbsp;
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 &nbsp;
