@@ -31,6 +31,8 @@
 &nbsp;
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 &nbsp;
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+&nbsp;
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
@@ -45,4 +47,6 @@
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
 &nbsp;
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)]([https://css.com](https://www.w3.org/TR/CSS/#css))
 &nbsp;
