@@ -29,6 +29,8 @@
 &nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 &nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+&nbsp;
 <br>
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com/)
 &nbsp;
@@ -41,4 +43,6 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 &nbsp;
 [![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
+&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 &nbsp;
