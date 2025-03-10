@@ -60,3 +60,5 @@
 &nbsp;
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 &nbsp;
+[![Sentry](https://skillicons.dev/icons?i=sentry)](https://sentry.io)
+&nbsp;
